@@ -28,4 +28,4 @@ SingleLineBlockParams:
   Enabled: false
 
 FrozenStringLiteralComment:
-  Enabled: false
+  Enabled: true
