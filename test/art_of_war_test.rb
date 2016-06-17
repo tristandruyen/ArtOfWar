@@ -1,8 +1,8 @@
 require 'test_helper'
 
-class BerufsorientierungstagTest < Minitest::Test
+class ArtOfWarTest < Minitest::Test
   def test_that_it_has_a_version_number
-    refute_nil ::Berufsorientierungstag::VERSION
+    refute_nil ::ArtOfWar::VERSION
   end
 
   def test_it_does_something_useful
